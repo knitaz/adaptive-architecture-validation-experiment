@@ -1,40 +1,70 @@
-# adaptive-learning-architecture
+# adaptive-architecture-validation-experiment
+This repository contains the supplementary materials for the evaluation of an **adaptive architecture validation experiment**. These materials include the evaluation procedure, prototype images, expert feedback, SUS data, and thematic analysis.
 
-This repository contains the supplementary materials for **adaptive architecture validation**. The materials include:
-
-- **Expert evaluation procedure**: The steps and instructions followed during expert interaction with the physical prototype.
-- **Prototype images**: Pictures of the 3D model used for the expert evaluations.
-- **Evaluation instruments and results**: System Usability Scale (SUS) questionnaire, component-specific feedback, and expert ratings.
-- **Thematic analysis and field notes**: Analysis of expert feedback and observational insights.
+The repository includes:
+– Expert evaluation guide and procedure documentation (Procedure Expert Guide EN.docx)
+- Photographs of the physical prototype (physical 3D model.jpg, Experts.png)
+– Evaluation instruments and results:
+• Likert-based component scores (avg scores component.png)
+• Radar visualization (avg radar.png)
+• Qualitative feedback (qualitative feedback comments.xlsx)
+• System Usability Scale instrument and results (System Usability Scale (Adapted).xlsx, sus score.png)
+– Transcribed field notes (Field notes.docx)
+These materials promote transparency and reproducibility and are available
+under shared academic conditions.
 
 ## Table of Contents
-1. [Evaluation Procedure](Evaluation-Procedure)
-2. [Prototype Images](Prototype-Images)
-3. [Evaluation Instruments and Results](Evaluation-Instruments)
-4. [SUS Data and Analysis](SUS-Data)
-5. [Field Notes](Field-Notes)
+1. [Expert Evidence Experiment](#expert-evidence-experiment)
+2. [Prototype Images](#prototype-images)
+3. [Evaluation Instruments and Results](#evaluation-instruments-and-results)
+4. [SUS Data and Analysis](#sus-data-and-analysis)
+5. [Field Notes](#field-notes)
+6. [Qualitative Feedback](#qualitative-feedback)
+
+## Files Overview
+
+### 1. **Expert Evidence Experiment**
+This folder contains the detailed steps for expert evaluations, including documents and tools used during the evaluation.
+
+- **Proceso_Guia_Experto_ES.docx**: Expert evaluation guide (in Spanish).
+- **Expert_Feedback_Survey.xlsx**: Survey used for gathering expert feedback.
+
+### 2. **Prototype Images**
+Images of the physical 3D prototype and expert interaction.
+
+- **physical_3D_model.jpg**: Image of the 3D physical model used for expert evaluation.
+- **Experts.png**: Image showing experts interacting with the prototype.
+
+### 3. **Evaluation Instruments and Results**
+This section includes the results from the System Usability Scale (SUS) and expert feedback.
+
+- **sus_score.png**: Visualization of SUS scores from expert evaluations.
+- **avg_scores_components.png**: Graph showing the average scores per component for each participant.
+- **avg_radar.png**: Radar chart showing the average scores for each component.
+
+### 4. **SUS Data and Analysis**
+Data from the **System Usability Scale** (SUS) evaluation, which is used to assess the usability of the architecture.
+
+- **System_Usabi1ity_Scale_(Adapted).xlsx**: Spreadsheet containing the SUS data.
+- **qualitative_feedback_comments.xlsx**: Spreadsheet with open-ended feedback from experts.
+
+### 5. **Field Notes**
+Field notes and observations made during the expert evaluation sessions.
+
+- **Field notes.docx**: Detailed notes from the evaluation process, including expert suggestions and concerns.
+
+### 6. **Qualitative Feedback**
+This file contains feedback from the expert evaluation, categorized by component.
+
+- **qualitative_feedback_comments.xlsx**: Categorized qualitative feedback for each component of the architecture.
 
 ## License
 
 This repository is licensed under **[Creative Commons CC0 1.0 Universal (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)**, which means that you can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
 
-## How to Use the Materials
-
-1. **Evaluation Procedure**: Follow the **focus group** approach described in the procedure to conduct similar expert evaluations or adapt the method to suit different contexts.
-2. **Prototype Images**: The images can be used as references for creating your own prototypes or to visually understand the evaluation process.
-3. **Evaluation Instruments and Results**: Use the SUS scores and feedback to assess the usability of your own adaptive learning architecture.
-4. **Field Notes**: Use the qualitative feedback to gain insights into expert opinions, identify strengths, and areas for improvement.
-
-## Contributing
-
-If you would like to contribute or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
 ## Contact
 
 For any inquiries, please contact [Hernán Ordoñez](mailto:hordonezc1@est.ups.edu.ec).
-
-
-Supplementary materials for the evaluation of an adaptive learning architecture
 
 1. global. chem_architecture.png
 2. Procedure_Expert_Guide_EN.docx
