@@ -3,41 +3,44 @@ This repository contains the supplementary materials for the evaluation of an **
 
 ## Files Overview
 
-### 1. **Expert Evidence Experiment**
+### 1. **Global Architecture Image**
+- **1.global_schem_architecture.png**: Image showing the Global Architecture of the proposed system.
+
+### 2. **Expert Evidence Experiment**
 This folder contains the detailed steps for expert evaluations, including documents and tools used during the evaluation.
 
-- **Procedure_Expert_Guide_EN**: Expert evaluation guide (in English).
-- **Proceso_Guia_Experto_ES.docx**: Expert evaluation guide (in Spanish).
-- **Expert_Feedback_Survey.xlsx**: Survey used for gathering expert feedback.
+- **2. Procedure_Expert_Guide_EN.docx**: Expert evaluation guide (in English).
+- **2.1 Proceso_Guia_Experto_ES.docx**: Expert evaluation guide (in Spanish).
+- **5. Expert_Feedback_Survey.xlsx**: Survey used for gathering expert feedback.
 
-### 2. **Prototype Images**
+### 3. **Prototype Images**
 Images of the physical 3D prototype and expert interaction.
 
-- **physical_3D_model.jpg**: Image of the 3D physical model used for expert evaluation.
-- **Experts.png**: Image showing experts interacting with the prototype.
+- **3. physical_3D_model.jpg**: Image of the 3D physical model used for expert evaluation.
+- **4. Experts.png**: Image showing experts interacting with the prototype.
 
-### 3. **Evaluation Instruments and Results**
+### 4. **Evaluation Instruments and Results**
 This section includes the results from the System Usability Scale (SUS) and expert feedback.
 
-- **sus_score.png**: Visualization of SUS scores from expert evaluations.
-- **avg_scores_components.png**: Graph showing the average scores per component for each participant.
-- **avg_radar.png**: Radar chart showing the average scores for each component.
+- **6. avg_scores_components.png**: Graph showing the average scores per component for each participant.
+- **7. avg_radar.png**: Radar chart showing the average scores for each component.
+- **10. sus_score.png**: Visualization of SUS scores from expert evaluations.
 
-### 4. **SUS Data and Analysis**
+### 5. **SUS Data and Analysis**
 Data from the **System Usability Scale** (SUS) evaluation, which is used to assess the usability of the architecture.
 
-- **System_Usabi1ity_Scale_(Adapted).xlsx**: Spreadsheet containing the SUS data.
-- **qualitative_feedback_comments.xlsx**: Spreadsheet with open-ended feedback from experts.
+- **8. qualitative_feedback_comments.xlsx**: Spreadsheet with open-ended feedback from experts.
+- **9. System_Usabi1ity_Scale_(Adapted).xlsx**: Spreadsheet containing the SUS data.
 
-### 5. **Field Notes**
+### 6. **Field Notes**
 Field notes and observations made during the expert evaluation sessions.
 
-- **Field notes.docx**: Detailed notes from the evaluation process, including expert suggestions and concerns.
+- **11. Field notes.docx**: Detailed notes from the evaluation process, including expert suggestions and concerns.
 
-### 6. **Qualitative Feedback**
+### 7. **Qualitative Feedback**
 This file contains feedback from the expert evaluation, categorized by component.
 
-- **qualitative_feedback_comments.xlsx**: Categorized qualitative feedback for each component of the architecture.
+- **8. qualitative_feedback_comments.xlsx**: Categorized qualitative feedback for each component of the architecture.
 
 ## License
 
